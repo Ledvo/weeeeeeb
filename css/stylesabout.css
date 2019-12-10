@@ -1,0 +1,23 @@
+h1 {
+color: rgb(255, 184, 0);
+font-family: "courier";
+text-align: center;
+}
+p {
+width: 60%;
+font-size: 2em;
+text-align: center;
+margin: 10vh 20vw;
+color: rgb(160, 58, 57);
+}
+img {
+display: block;
+padding: 10px;
+margin: 0 auto;
+border-radius: 900px;
+}
+h2 {
+color: rgb(255, 184, 0);
+font-family: "courier";
+text-align: center;
+}
